@@ -1,0 +1,2 @@
+C:\Users\Paracite\AndroidStudioProjects\Goblin King\app\build\intermediates\classes\debug
+C:\Users\Paracite\AndroidStudioProjects\Goblin King\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0-bd97f0fd40e3123919e0e9b0425bce144ab5c577.jar
